@@ -1,3 +1,5 @@
+![Tinder](Tinder_logo.png)
+
 # Speed Dating — Analyse exploratoire
 
 Projet réalisé dans le cadre du bloc 2 de la certification CDSD (Jedha).
