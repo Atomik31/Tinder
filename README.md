@@ -45,12 +45,30 @@ Le dictionnaire des variables est disponible dans `docs/Speed+Dating+Data+Key.pd
 ```
 Tinder/
 ├── data/
-│   └── raw/               # Dataset original
-├── docs/                  # Énoncé et dictionnaire des variables
+│   ├── raw/
+│   │   └── Speed_Dating_Data.csv
+│   └── processed/
+├── docs/
+│   ├── 01-Speed_Dating.ipynb         # Énoncé du projet
+│   └── Speed+Dating+Data+Key.pdf     # Dictionnaire des variables
 ├── notebooks/
-│   └── tinder.ipynb       # Analyse principale
+│   └── tinder.ipynb
 ├── reports/
-│   └── figures/           # Graphiques exportés en PNG
+│   └── figures/
+│       ├── 01_missing_values.png
+│       ├── 02_gender_pie.png
+│       ├── 03_age_distribution.png
+│       ├── 04_goal_sunburst.png
+│       ├── 05_match_global_pie.png
+│       ├── 06_match_by_gender.png
+│       ├── 07_criteria_by_gender.png
+│       ├── 08_attribute_impact.png
+│       ├── 09_like_score_vs_match.png
+│       ├── 10_interest_correlation.png
+│       ├── 11_interests_vs_race.png
+│       ├── 12_self_perception_vs_reality.png
+│       ├── 13_match_prediction.png
+│       └── 14_position_effect.png
 └── README.md
 ```
 
