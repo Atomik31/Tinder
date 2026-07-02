@@ -1,6 +1,6 @@
 ![Tinder](Tinder_logo.png)
 
-# Speed Dating — Analyse exploratoire
+# Speed Dating - Analyse exploratoire
 
 Projet réalisé dans le cadre du bloc 2 de la certification CDSD (Jedha).
 
@@ -16,17 +16,17 @@ Tinder observe une baisse du nombre de matchs sur sa plateforme et veut comprend
 
 Analyse exploratoire pour répondre à 5 questions concrètes :
 
-1. **Attributs les moins désirables** — Ce que chaque genre valorise ou au contraire ignore chez un partenaire
-2. **Attractivité perçue vs réelle** — Les gens lui accordent beaucoup d'importance, mais est-ce vraiment ce qui fait la différence ?
-3. **Intérêts partagés vs origine raciale** — Lequel des deux facteurs a le plus d'impact sur le match ?
-4. **Auto-perception** — Les participants savent-ils comment les autres les perçoivent ?
-5. **Effet de position** — Vaut-il mieux être le premier ou le dernier speed date de la nuit ?
+1. **Attributs les moins désirables** - Ce que chaque genre valorise ou au contraire ignore chez un partenaire
+2. **Attractivité perçue vs réelle** - Les gens lui accordent beaucoup d'importance, mais est-ce vraiment ce qui fait la différence ?
+3. **Intérêts partagés vs origine raciale** - Lequel des deux facteurs a le plus d'impact sur le match ?
+4. **Auto-perception** - Les participants savent-ils comment les autres les perçoivent ?
+5. **Effet de position** - Vaut-il mieux être le premier ou le dernier speed date de la nuit ?
 
 ---
 
 ## Stack
 
-- Python — Pandas, Plotly Express
+- Python - Pandas, Plotly Express
 
 ---
 
@@ -74,4 +74,4 @@ Tinder/
 
 ---
 
-Julien CHARLIER — [(Github : Atomik31)](https://github.com/Atomik31)
+Julien CHARLIER - [(Github : Atomik31)](https://github.com/Atomik31)
